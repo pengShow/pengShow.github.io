@@ -24,8 +24,8 @@ redcarpet:
     - with_toc_data
     
 
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : Taeyang
+tagline: A fresh looking and responsive theme for zhipeng
 
 defaults:
   -
@@ -82,16 +82,16 @@ author:
   name: yitao      ## e.g. wuchong Author name
   intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
   intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
-  weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
+  weibo:      ## e.g. _luzhipeng__  or 2181105872 for http://weibo.com/2181105872/
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
-  douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
-  zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
-  email:      ## e.g. imjark@gmail.com
-  twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github:     ## e.g. wuchong for https://github.com/wuchong
-  facebook:   ## e.g. imjark for https://facebook.com/imjark
-  linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
+  douban:     ## e.g. wuchong1014 or your id for 
+  zhihu:      ## e.g. jark  for 
+  email:      ## e.g. 463263900@gmail.com
+  twitter:    ## e.g. jarkwu for 
+  github:     ## e.g. wuchong for https://github.com/pengShow
+  facebook:   ## e.g. imjark for 
+  linkedin:   ## e.g. wuchong1014 for 
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
   stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
 ## if you set them, the corresponding  share button will show on the footer
@@ -105,8 +105,9 @@ toc:
 
 #### Links
 links:
+  码农圈: https://xiejingxun.com
   镜勋博客: https://xiejingxun.com
-Jark's Blog: http://wuchong.me
+  
 
 
 
@@ -118,13 +119,13 @@ disqus_shortname:     ## e.g. wuchong   your disqus short name.
 jiathis:
   enable: false ## if you use jiathis as your share tool,the built-in share tool won't be display.
   id:    ## e.g. 1889330 your jiathis ID. 
-  tsina: ## e.g. 2176287895 Your weibo id,It will be used in share button.
+  tsina: ## e.g. 2181105872 Your weibo id,It will be used in share button.
 
 #### Analytics
 google_analytics:
   enable: false
   id:        ## e.g. UA-46321946-2 your google analytics ID.
-  site:      ## e.g. wuchong.me your google analytics site or set the value as auto.
+  site:      ## e.g. zhipeng.me your google analytics site or set the value as auto.
 ## You MUST upgrade to Universal Analytics first!
 ## https://developers.google.com/analytics/devguides/collection/upgrade/?hl=zh_CN
 baidu_tongji:
